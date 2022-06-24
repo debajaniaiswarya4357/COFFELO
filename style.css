@@ -19,6 +19,9 @@ body{
     opacity: 0.5;
     background-size: cover;
     font-family: 'Fredericka the Great', cursive;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
     
   }
   .navbar-menu a{
@@ -96,7 +99,7 @@ body{
     .img {
       padding: 20px;
       
-      width: 350px;
+      width: 320px;
       height: 300px;
       margin: 15px;
     }
